@@ -1,0 +1,5 @@
+django
+yt_dlp
+pyrogram
+tgcrypto
+python-dotenv
